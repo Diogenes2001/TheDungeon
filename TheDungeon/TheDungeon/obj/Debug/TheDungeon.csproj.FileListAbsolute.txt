@@ -1,0 +1,12 @@
+\\hsfs01\home\students\300707\documents\visual studio 2015\Projects\TheDungeon\TheDungeon\bin\Debug\TheDungeon.exe.config
+\\HSFS01\Home\Students\300707\Documents\Visual Studio 2015\Projects\TheDungeon\TheDungeon\bin\Debug\TheDungeon.exe
+\\HSFS01\Home\Students\300707\Documents\Visual Studio 2015\Projects\TheDungeon\TheDungeon\bin\Debug\TheDungeon.pdb
+\\HSFS01\Home\Students\300707\Documents\Visual Studio 2015\Projects\TheDungeon\TheDungeon\obj\Debug\TheDungeon.csprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\300707\Documents\Visual Studio 2015\Projects\TheDungeon\TheDungeon\obj\Debug\TheDungeon.exe
+\\HSFS01\Home\Students\300707\Documents\Visual Studio 2015\Projects\TheDungeon\TheDungeon\obj\Debug\TheDungeon.pdb
+E:\Computer Science\TheDungeon\TheDungeon\bin\Debug\TheDungeon.exe.config
+E:\Computer Science\TheDungeon\TheDungeon\obj\Debug\TheDungeon.exe
+E:\Computer Science\TheDungeon\TheDungeon\obj\Debug\TheDungeon.pdb
+E:\Computer Science\TheDungeon\TheDungeon\bin\Debug\TheDungeon.exe
+E:\Computer Science\TheDungeon\TheDungeon\bin\Debug\TheDungeon.pdb
+E:\Computer Science\TheDungeon\TheDungeon\obj\Debug\TheDungeon.csprojResolveAssemblyReference.cache
